@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome way to present your code!](https://dev.to/pratyushnirwan/awesome-way-to-present-your-code-1cm7)
+- [What is GitHub student developer pack and how to get it?](https://dev.to/pratyushnirwan/what-is-github-student-developer-pack-and-how-to-get-it-2pc2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
