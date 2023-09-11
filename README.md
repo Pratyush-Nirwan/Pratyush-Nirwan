@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush-nirwan&show_icons=true&locale=en&layout=compact" alt="pratyush-nirwan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush-nirwan&show_icons=true&locale=en" alt="pratyush-nirwan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratyush-nirwan&show_icons=true&locale=en" alt="pratyush-nirwan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-nirwan&" alt="pratyush-nirwan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush-nirwan&" alt="pratyush-nirwan" /></p>
 
