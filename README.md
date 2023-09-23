@@ -2,10 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-nirwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush-nirwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<p align="left">🔭 I’m currently working on something epic<br>👯 I’m looking to collaborate on project<br>📝 I regularly write articles on https://dev.to/pratyushnirwan<br>💬 Ask me about anything related to coding<br>📫 How to reach me pratyushnirwan123@gmail.com<br>⚡ Fun fact I use Dark Mode in literally everything</p>
 
 ###
 
@@ -19,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -51,7 +50,9 @@
 
 ###
 
-<img align="right" height="140" src="https://i.imgur.com/WKHlCKV.gif"  />
+<br clear="both">
+
+<img align="right" height="100" src="https://i.imgur.com/WKHlCKV.gif"  />
 
 ###
 
@@ -80,6 +81,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pratyush-nirwan/pratyush-nirwan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-nirwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush-nirwan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
