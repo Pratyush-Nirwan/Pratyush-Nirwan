@@ -52,8 +52,6 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://i.imgur.com/WKHlCKV.gif"  />
-
 ###
 
 <div align="left">
