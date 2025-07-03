@@ -1,83 +1,64 @@
-<h2 align="left">Hi 👋! My name is Pratyush</h2>
+# Hi there, I'm Pratyush Nirwan! 👋
 
-###
+## About Me 🚀
 
-<br clear="both">
+I'm a passionate **Front-End Developer** and **Graphics Designer** who believes in hands-on experiences and loves sharing knowledge with the community. I'm always working on something epic and looking to collaborate with fellow developers on exciting projects!
 
-<p align="left">🔭 I’m currently working on something epic<br>👯 I’m looking to collaborate on project<br>📝 I regularly write articles on https://dev.to/pratyushnirwan<br>💬 Ask me about anything related to coding<br>📫 How to reach me pratyushnirwan123@gmail.com<br>⚡ Fun fact I use Dark Mode in literally everything</p>
+- 🔭 I'm currently working on something epic
+- 👯 I'm looking to collaborate on innovative projects
+- 📝 I regularly write articles on [Dev.to](https://dev.to/pratyushnirwan)
+- 💬 Ask me about anything related to coding
+- 📫 How to reach me: pratyushnirwan123@gmail.com
+- ⚡ Fun fact: I use Dark Mode in literally everything
 
-###
+## Tech Stack 💻
 
-<h2 align="center">View Count</h2>
+### Languages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-###
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pratyush-nirwan/count.svg?"  />
-</div>
+## Featured Projects 🌟
 
-###
+### 🧮 Calculator Applications
+- **[Calculator-App](https://github.com/Pratyush-Nirwan/Calculator-App)** - A comprehensive calculator application
+- **[Html-Calculator](https://github.com/Pratyush-Nirwan/Html-Calculator)** - A sleek calculator built with HTML, CSS, and JavaScript
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### 💰 Expense Tracker
+- **[Expense-Tracker](https://github.com/Pratyush-Nirwan/Expense-Tracker)** - A robust expense tracking application developed in C
 
-###
+### 🌡️ Temperature Converter
+- **[Temperature-converter](https://github.com/Pratyush-Nirwan/Temperature-converter)** - A handy temperature conversion tool built with JavaScript
 
-<div align="center">
-  <a href="https://www.instagram.com/pratyush_nirwan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/727559089835737150" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:pratyushnirwan123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pratyush-nirwan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/pratyushnirwan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/pratyushnirwan11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+## GitHub Stats 📊
 
-###
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratyush-Nirwan&show_icons=true&theme=dark)
 
-<br clear="both">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Nirwan&layout=compact&theme=dark)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush-nirwan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush-nirwan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## Connect with Me 🤝
 
-###
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/pratyushnirwan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushnirwan123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pratyush-Nirwan)
+
+## What I'm Up To 🎯
+
+- 🌱 Continuously learning and exploring new technologies
+- 📚 Writing technical articles and tutorials
+- 🚀 Building innovative web applications
+- 🎨 Creating engaging user interfaces and experiences
+- 🤝 Open to collaborating on exciting projects
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat about technology! 😊
